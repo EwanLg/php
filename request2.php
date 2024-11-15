@@ -39,7 +39,7 @@ if (!isset($_POST['btnSeConnecter'])) { /* L'entrée btnSeConnecter est vide = l
 
     $nb_ligne_affectees = $stmt->rowCount();
 
-    echo $nb_ligne_affectees." ligne() insérée(s).<BR>";
+    echo $nb_ligne_affectees." ligne insérée avec succès.<BR>";
 }
 
 ?>
