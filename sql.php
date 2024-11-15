@@ -1,7 +1,7 @@
 <html>
 
 <body>
-
+<h1>Afficher dans un tableau le nom, le prénom et l'adresse des agents dont le code postal est 33000.</h1>
 <?php 
 
 try {
